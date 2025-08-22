@@ -85,7 +85,4 @@ Run:
 python tiktok.py
 ```
 
-👉 This should open Chrome, go to Google, print the title, and close.
-
-```
 
